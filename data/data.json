@@ -1,0 +1,199 @@
+{
+	"mapList":{
+		"albumList":[{
+			"albumImgSrc":"../resource/music/album/yongqi/100751465709891.jpg",
+			"playerBg":"../resource/music/album/yongqi/playerBg.jpg",
+			"albumBg":"../resource/music/album/yongqi/albumBG.jpg",
+			"albumTitle":"崇拜",
+			"albumSinger":"梁静茹",
+			"albumMusicList":[{
+				"musicName":"给未来的自己",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/chongbai/梁静茹 - 给未来的自己.mp3",
+				"lyric":"../resource/music/album/chongbai/梁静茹 - 给未来的自己.lrc"
+			}]
+		},{
+			"albumImgSrc":"../resource/music/album/yongqi/100751465709891.jpg",
+			"playerBg":"../resource/music/album/yongqi/playerBg.jpg",
+			"albumBg":"../resource/music/album/yongqi/albumBG.jpg",
+			"albumTitle":"勇气",
+			"albumSinger":"梁静茹",
+			"albumMusicList":[{
+				"musicName":"勇气",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 01. 勇气.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 01. 勇气.lrc"
+			},{
+				"musicName":"如果有一天",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 02. 如果有一天.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 02. 如果有一天.lrc"
+			},{
+				"musicName":"半个月亮",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 03. 半个月亮.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 03. 半个月亮.lrc"
+			},{
+				"musicName":"没有水的游泳池",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 04. 没有水的游泳池.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 04. 没有水的游泳池.lrc"
+			},{
+				"musicName":"最烂的理由",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 05. 最烂的理由.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 05. 最烂的理由.lrc"
+			},{
+				"musicName":"爱你不是两三天",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 06. 爱你不是两三天.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 06. 爱你不是两三天.lrc"
+			},{
+				"musicName":"爱计较",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 07. 爱计较.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 07. 爱计较.lrc"
+			},{
+				"musicName":"昨天",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 08. 昨天.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 08. 昨天.lrc"
+			},{
+				"musicName":"多数是晴天",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 09. 多数是晴天.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 09. 多数是晴天.lrc"
+			},{
+				"musicName":"最后",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 10. 最后.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 10. 最后.lrc"
+			}]
+		},{
+			"albumImgSrc":"../resource/music/album/english/专辑头像.jpg",
+			"playerBg":"../resource/music/album/english/playerBg.jpg",
+			"albumBg":"../resource/music/album/english/albumBG.jpg",
+			"albumTitle":"English",
+			"albumSinger":"群星",
+			"albumMusicList":[{
+				"musicName":"Where Them Girls At",
+				"musicSinger":"David Guetta、Flo Rida、Nicki Minaj",
+				"musicUrl":"../resource/music/album/english/01_David Guetta、Flo Rida、Nicki Minaj - Where Them Girls At.mp3",
+				"lyric":"../resource/music/album/english/01_David Guetta、Flo Rida、Nicki Minaj - Where Them Girls At.lrc"
+			},{
+				"musicName":"The Monster",
+				"musicSinger":"Emine",
+				"musicUrl":"../resource/music/album/english/02_Eminem - The Monster.mp3",
+				"lyric":"../resource/music/album/english/02_Eminem - The Monster.lrc"
+			},{
+				"musicName":"Immortals",
+				"musicSinger":"Fall Out Boy",
+				"musicUrl":"../resource/music/album/english/03_Fall Out Boy - Immortals.mp3",
+				"lyric":"../resource/music/album/english/03_Fall Out Boy - Immortals.lrc"
+			},{
+				"musicName":"My Songs Know What You Did In The Dark",
+				"musicSinger":"Fall Out Boy",
+				"musicUrl":"../resource/music/album/english/04_Fall Out Boy - My Songs Know What You Did In The Dark.mp3",
+				"lyric":"../resource/music/album/english/04_Fall Out Boy - My Songs Know What You Did In The Dark.lrc"
+			},{
+				"musicName":"The Phoenix",
+				"musicSinger":"Fall Out Boy",
+				"musicUrl":"../resource/music/album/english/05_Fall Out Boy - The Phoenix.mp3",
+				"lyric":"../resource/music/album/english/05_Fall Out Boy - The Phoenix.lrc"
+			},{
+				"musicName":"Ce Frumoasa E Iubirea",
+				"musicSinger":"Giulia",
+				"musicUrl":"../resource/music/album/english/06_Giulia - Ce Frumoasa E Iubirea.mp3",
+				"lyric":"../resource/music/album/english/06_Giulia - Ce Frumoasa E Iubirea.lrc"
+			},{
+				"musicName":"Domino",
+				"musicSinger":"Jessie J",
+				"musicUrl":"../resource/music/album/english/07_Jessie J - Domino.mp3",
+				"lyric":"../resource/music/album/english/07_Jessie J - Domino.lrc"
+			},{
+				"musicName":"Thunder",
+				"musicSinger":"Jessie J",
+				"musicUrl":"../resource/music/album/english/08_Jessie J - Thunder.mp3",
+				"lyric":"../resource/music/album/english/08_Jessie J - Thunder.lrc"
+			},{
+				"musicName":"Part Of Me",
+				"musicSinger":"Katy Perry",
+				"musicUrl":"../resource/music/album/english/09_Katy Perry - Part Of Me.mp3",
+				"lyric":"../resource/music/album/english/09_Katy Perry - Part Of Me.lrc"
+			},{
+				"musicName":"Die Young",
+				"musicSinger":"Ke",
+				"musicUrl":"../resource/music/album/english/10_Keha - Die Young.mp3",
+				"lyric":"../resource/music/album/english/10_Keha - Die Young.lrc"
+			},{
+				"musicName":"We Own The Night",
+				"musicSinger":"The Wanted",
+				"musicUrl":"../resource/music/album/english/11_The Wanted - We Own The Night.mp3",
+				"lyric":"../resource/music/album/english/11_The Wanted - We Own The Night.lrc"
+			},{
+				"musicName":"We R Who We R",
+				"musicSinger":"Ke",
+				"musicUrl":"../resource/music/album/english/12_Keha - We R Who We R.mp3",
+				"lyric":"../resource/music/album/english/12_Keha - We R Who We R.lrc"
+			},{
+				"musicName":"Stronger",
+				"musicSinger":"Kelly Clarkson",
+				"musicUrl":"../resource/music/album/english/13_Kelly Clarkson - Stronger.mp3",
+				"lyric":"../resource/music/album/english/13_Kelly Clarkson - Stronger.lrc"
+			},{
+				"musicName":"Poker Face",
+				"musicSinger":"Lady GaGa",
+				"musicUrl":"../resource/music/album/english/14_Lady GaGa - Poker Face.mp3",
+				"lyric":"../resource/music/album/english/14_Lady GaGa - Poker Face.lrc"
+			},{
+				"musicName":"Animals",
+				"musicSinger":"Maroon 5",
+				"musicUrl":"../resource/music/album/english/15_Maroon 5 - Animals.mp3",
+				"lyric":"../resource/music/album/english/15_Maroon 5 - Animals.lrc"
+			}]
+		}],
+		"recommendList":[{
+			"musicName":"爱河",
+			"musicSinger":"神马乐团",
+			"musicUrl":"../resource/music/recommend/爱河 - 神马乐团.mp3",
+			"lyric":"../resource/music/recommend/爱河 - 神马乐团.lrc",
+			"albumImgSrc":"../resource/music/recommend/神马乐团.jpg",
+			"playerBg":"../resource/music/recommend/神马乐团bg.jpg"
+		},{
+			"musicName":"丫头",
+			"musicSinger":"王童语",
+			"musicUrl":"../resource/music/recommend/王童语 - 丫头.mp3",
+			"lyric":"../resource/music/recommend/王童语 - 丫头.lrc",
+			"albumImgSrc":"../resource/music/recommend/王童语.jpg",
+			"playerBg":"../resource/music/recommend/王童语bg.jpg"
+		},{
+			"musicName":"成都",
+			"musicSinger":"赵雷",
+			"musicUrl":"../resource/music/recommend/赵雷 - 成都.mp3",
+			"lyric":"../resource/music/recommend/赵雷 - 成都.lrc",
+			"albumImgSrc":"../resource/music/recommend/赵雷.jpg",
+			"playerBg":"../resource/music/recommend/赵雷bg.jpg"
+		},{
+			"musicName":"远走高飞",
+			"musicSinger":"金志文、徐佳莹",
+			"musicUrl":"../resource/music/recommend/金志文、徐佳莹 - 远走高飞.mp3",
+			"lyric":"../resource/music/recommend/金志文、徐佳莹 - 远走高飞.lrc",
+			"albumImgSrc":"../resource/music/recommend/金志文.jpg",
+			"playerBg":"../resource/music/recommend/金志文bg.jpg"
+		},{
+			"musicName":"温柔乡",
+			"musicSinger":"陈雅森",
+			"musicUrl":"../resource/music/recommend/陈雅森 - 温柔乡.mp3",
+			"lyric":"../resource/music/recommend/陈雅森 - 温柔乡.lrc",
+			"albumImgSrc":"../resource/music/recommend/陈雅森.jpg",
+			"playerBg":"../resource/music/recommend/陈雅森bg.jpg"
+		},{
+			"musicName":"齐一",
+			"musicSinger":"这个年纪",
+			"musicUrl":"../resource/music/recommend/齐一 - 这个年纪.mp3",
+			"lyric":"../resource/music/recommend/齐一 - 这个年纪.lrc",
+			"albumImgSrc":"../resource/music/recommend/齐一.jpg",
+			"playerBg":"../resource/music/recommend/齐一bg.jpg"
+		}]
+	}
+}
